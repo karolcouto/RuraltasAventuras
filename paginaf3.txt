@@ -1,0 +1,14 @@
+- Claro xuxu, ainda bem que eu trouxe dois! Pode ficar com esse aqui.
+
+Ela se levanta vindo ate voce e ergue seu braco musculoso te dando um dos paes.
+
+- Obrigado professora!
+
+Voce agradece pegando o pao e depois rapidamente olha a hora em seu celular, voce queria 
+dar aquele pao para Mark logo, mas a aula comecava em 10 minutos, e se voce fosse procurar Mark 
+para entregar o pao agora certamente nao voltaria a tempo. Depois de avaliar suas opcoes decide:
+
+	x---Voce:-------------------------------------------------------------x
+	|[A] Matar aula e ir atras de Mark.                                   |
+	|[B] Assistir a aula de matematica discreta e depois ir atras de Mark.|
+	x---------------------------------------------------------------------x

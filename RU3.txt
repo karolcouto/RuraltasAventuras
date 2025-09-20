@@ -1,0 +1,11 @@
+﻿A agua era a solucao, mas, infelizmente, toda agua que voce tinha agora esta no chao. 
+Decidido(a) voce olha ao redor para saber o quao longe estava do bebedouro e, como hoje nao era 
+seu dia de sorte, ele estava simplesmente do outro lado do refeitorio. Com a massa de odio chegando 
+em voce, vulgo Julia, voce nao tem alternativa alem de correr o maximo que consegue, mas ela eh 
+muito rapida...
+
+     x---Voce:------------------------------------------------------------------x
+     |(1) Tenta encher o copo e jogar em julia  (ENERGIA -1)                    |
+     |(2) Lutar                                                                 |
+     x--------------------------------------------------------------------------x
+

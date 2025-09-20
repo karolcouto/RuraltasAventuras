@@ -1,0 +1,12 @@
+Jogo inspirado no dia a dia dos alunos de Ciencia da Computacao do primeiro periodo da UFRRJ. Nesse jogo,
+voce encontrara partes das vivencias dos discentes do IM, com um toque de imaginacao e aventura. O Jogo
+se passa em um dia supostamente comum na faculdade, o usuario, um estudante de la, tem a opcao de escolher
+entre alguns tipos diferentes de jogadores como: o aluno bombado, o aluno nerdola e o aluno puxa-saco.
+Cada um tem seus proprios atributos que ajudarao ao longo de sua aventura, alem disso, para contribuir nos
+desafios que voce tera que enfrentar serao oferecidos alguns objetos, como a bandeja do RU, que, confie em mim,
+podera salvar sua vida. Assuma o papel de um universitario, enfrente transformacoes misteriosas, veja professores
+encontrarem o verdadeiro potencial em um pao fitness ou uma em coca gelada, e de cara com animais surpreendentes
+que podem ajudar ou dificultar ainda mais seu caminho ao tao esperado...final do dia, afinal, todo dia na Rural e
+uma batalha.
+
+ATENCAO: ESSE JOGO SO FUNCIONA NO SISTEMA OPERACIONAL WINDOWS

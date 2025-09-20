@@ -1,0 +1,9 @@
+,--------------------------------------------,
+| [ QUESTAO 1 ]                              |
+|                                            |
+| Como declarar uma variavel inteira em C?   |
+|                                            |
+| [a]int numero;                             |
+| [b]interger numero;                        |
+|                                            |
+,--------------------------------------------,

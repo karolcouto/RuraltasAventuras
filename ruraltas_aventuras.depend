@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1721330183 source:c:\users\user\documents\ruraltas_aventuras\cap1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"functions.h"
+	"globals.h"
+
+1721330332 c:\users\user\documents\ruraltas_aventuras\functions.h
+
+1721330359 c:\users\user\documents\ruraltas_aventuras\globals.h
+
+1721330172 source:c:\users\user\documents\ruraltas_aventuras\fernanda.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"globals.h"
+	"functions.h"
+
+1721330211 source:c:\users\user\documents\ruraltas_aventuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"functions.h"
+	"globals.h"
+
+1721330235 source:c:\users\user\documents\ruraltas_aventuras\posner.c
+	<stdio.h>
+	<stdlib.h>
+	"globals.h"
+	"functions.h"
+

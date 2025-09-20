@@ -1,0 +1,8 @@
+Voce estava desesperado, sua media em PE era 4, por 1 ponto voce nao passaria, ou pelo menos era isso que aconteceria caso voce nao conseguisse arrancar 1 ponto do Posner, voce chega perto da porta e ao colocar a mao na macaneta voce rezava silenciosamente para que seu professor tivesse misericordia.
+
+Quando a porta eh aberta voce eh engolido pela escuridao que residia naquela sala, entao voce:
+
+x-----------------------x
+|[a]Acende a luz.       |
+|[b]Deixa a luz apagada.|
+x-----------------------x

@@ -1,0 +1,82 @@
+Seu estomago ronca, entao voce toma sua decisao e segue em direcao ao RU. Assim que chega na porta, 
+cumprimenta o senhor velhinho que sempre esta la e pega seu ticket almoço para entrega-lo, fazendo uma 
+cara de nojo quando lembra de onde veio. Do nada voce sente uma sensacao estranha e olha ao seu redor, 
+entao, finalmente percebe: nao tem nenhuma pessoa alem de voce e o senhor ali. Isso eh uma acontecimento 
+no minimo esquisito, uma vez que eh horario de almoco e sempre tem uma fila esse horario. Tentando ignorar 
+a sensacao esquisita, voce entrega o ticket e segue seu caminho, as pessoas deveriam estar dentro do 
+bandejao, afinal, voce nao chegou tao cedo assim para almocar. 
+
+Assim que voce entra, percebe que estava certo, alias, voce nunca viu o refeitorio tao cheio assim, porem, 
+estranhamente as pessoas estao muito diferentes do comum. Enquanto voce pega a comida, ve alguem com o suco 
+na mao, e percebe que o suco esta com uma cor estranha, amarelo demais pra ser de laranja e decide nao beber.
+
+De longe, voce ve sua amiga Julia, e decide sentar para comer com ela.
+
+- Oi, Julia, comendo muito como sempre?
+
+- Sim! Tenho que comer muitas proteinas pra ficar com o braco grande! Alias, voce ja experimentou o suco de hoje? 
+Esta terrivelmente ao ponto, eu mesma ja bebi 4 copos!
+
+- Ah, nao, valeu, a aparencia nao me parece la muito boa, vou ficar na agua mesmo.
+
+Enquanto Julia caminha em direcao ao local para pegar o suco, voce decide ir pegar sua agua. Quando voce volta 
+observa uma pequeno alvoroco na direcao em que Julia foi, curioso(a), voce vai ate la e no meio da roda ve sua 
+amiga caida no chao, se contorcendo como se estivesse com muita dor. Voce tenta ajuda-la, mas assim que voce toca 
+nela as unhas dela se tornam garras, os musculos começam a crescer, seus olhos mudam de cor, sua pele fica mais 
+grossa e, do nada, ela se torna algo desconhecido. 
+
+		     |\                                                              /|     
+		     | \                                                            / |     
+		     |  \                                                          /  |     
+		     |   \                                                        /   |     
+		     |    \                                                      /    |     
+		_____)     \                                                    /     (____ 
+		\           \                                                  /          / 
+		 \           \                                                /          /  
+		  \           `--_____                                _____--'          /   
+		   \                  \                              /                 /    
+		____)                  \                            /                 (____ 
+		\                       \        /|      |\        /                      / 
+		 \                       \      | /      \ |      /                      /  
+		  \                       \     ||        ||     /                      /   
+		   \                       \    | \______/ |    /                      /    
+		    \                       \  / \        / \  /                      /     
+		    /                        \| (*\  \/  /*) |/                       \     
+		   /                          \   \| \/ |/   /                         \    
+		  /                            |   |    |   |                           \   
+		 /                             |\ _\____/_ /|                            \  
+		/______                       | | \)____(/ | |                      ______\ 
+		       )                      |  \ |/vv\| /  |                     (        
+		      /                      /    | |  | |    \                     \       
+		     /                      /     ||\^^/||     \                     \      
+		    /                      /     / \====/ \     \                     \     
+		   /_______           ____/      \________/      \____           ______\    
+		           )         /   |       |  ____  |       |   \         (           
+		           |       /     |       \________/       |     \       |           
+		           |     /       |       |  ____  |       |       \     |           
+		           |   /         |       \________/       |         \   |           
+		           | /            \      \ ______ /      /______..    \ |           
+		           /              |      \\______//      |        \     \           
+		                          |       \ ____ /       |LLLLL/_  \                
+		                          |      / \____/ \      |      \   |               
+		                          |     / / \__/ \ \     |     __\  /__             
+		                          |    | |        | |    |     \      /             
+		                          |    | |        | |    |      \    /              
+		                          |    |  \      /  |    |       \  /               
+		                          |     \__\    /__/     |        \/                
+		                         /    ___\  )  (  /___    \                         
+	 	                         |/\/\|    )   (    |/\/\|                        
+		                         ( (  )             (  ) )
+
+
+Assim que ela fica de pe, tenta desferir um golpe poderoso em sua direcao, mas... 
+
+	x---Voce:-----------------------------------------x
+	|(1) Utiliza a bandeja do bandejao como escudo    |
+	|						  |
+	|(2) Leva o golpe na cara (CARISMA -1)		  |
+	|        					  |
+	|(3) Se protege do golpe com sua forca (FORCA -1) |
+	|                                                 |
+	|(4) Desvia do golpe (ENERGIA -1)                 |
+	x-------------------------------------------------x

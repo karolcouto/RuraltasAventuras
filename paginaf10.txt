@@ -1,0 +1,18 @@
+A energia de fernanda se esvaneceu, ela esta caida no chao quando te lanca um olhar de desprezo:
+
+- Pegue
+
+Ela diz ao lancar um de seus paes na sua direcao, e voce o pega no ar. Ela se levanta lentamente, e 
+quando aquela muralha de musculos finalmente se ergue, ela olha para seu relogio e volta para sua mesa:
+
+- Minha aula ja vai comecar, nao falemos mais nisso
+
+Voce queria dar aquele pao para Mark logo, mas a aula comecava em 10 minutos, e se voce fosse procurar 
+Mark para entregar o pao agora certamente nao voltaria a tempo. 
+Depois de avaliar suas opcoes voce decide:
+
+x---------------------------------------------------------------------x
+|[A]Matar aula e ir atras de Mark.                                    |
+|[B]Assistir a aula de matematica discreta e depois ir atras de Mark. |
+x---------------------------------------------------------------------x
+
